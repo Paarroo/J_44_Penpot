@@ -15,8 +15,10 @@ This project is a **design exercise** focused on creating a user-centered e-comm
 
 ## 🔗 Links
 
-- **Penpot Mockup**: https://design.penpot.app/#/workspace?team-id=53ae55ce-c456-815d-8006-6f209d485259&file-id=53ae55ce-c456-815d-8006-6f2188f80877&page-id=53ae55ce-c456-815d-8006-6f2188f80878
+- **Penpot Mockup**:
 
----
+## https://design.penpot.app/#/dashboard/recent?team-id=53ae55ce-c456-815d-8006-6fc8bac42cd2
+
+## https://design.penpot.app/#/workspace?team-id=53ae55ce-c456-815d-8006-6f209d485259&file-id=53ae55ce-c456-815d-8006-6f2188f80877&page-id=53ae55ce-c456-815d-8006-6f2188f80878
 
 \_Created with ❤️ and lots of ☕
