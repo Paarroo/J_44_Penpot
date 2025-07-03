@@ -19,4 +19,4 @@ This project is a **design exercise** focused on creating a user-centered e-comm
 
 ---
 
-_Created with ❤️ and lots of ☕ by [Team Name]_
+\_Created with ❤️ and lots of ☕
